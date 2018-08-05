@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res"/><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res"><file name="card_container" path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res\layout\card_container.xml" qualifiers="" type="layout"/><file name="card_frame" path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res\layout\card_frame.xml" qualifiers="" type="layout"/><file path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CardStackView">
+        <attr format="integer" name="visibleCount"/>
+        <attr format="float" name="swipeThreshold"/>
+        <attr format="float" name="translationDiff"/>
+        <attr format="float" name="scaleDiff"/>
+        <attr format="enum" name="stackFrom">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        <attr format="boolean" name="elevationEnabled"/>
+        <attr format="boolean" name="swipeEnabled"/>
+        <attr format="enum" name="swipeDirection">
+            <enum name="freedom" value="0"/>
+            <enum name="freedom_no_bottom" value="1"/>
+            <enum name="horizontal" value="2"/>
+            <enum name="vertical" value="3"/>
+        </attr>
+        <attr format="reference" name="leftOverlay"/>
+        <attr format="reference" name="rightOverlay"/>
+        <attr format="reference" name="bottomOverlay"/>
+        <attr format="reference" name="topOverlay"/>
+    </declare-styleable></file><file path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">CardStackView</string></file></source><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CardStackView"><attr format="integer" name="visibleCount"/><attr format="float" name="swipeThreshold"/><attr format="float" name="translationDiff"/><attr format="float" name="scaleDiff"/><attr format="enum" name="stackFrom">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr format="boolean" name="elevationEnabled"/><attr format="boolean" name="swipeEnabled"/><attr format="enum" name="swipeDirection">
+            <enum name="freedom" value="0"/>
+            <enum name="freedom_no_bottom" value="1"/>
+            <enum name="horizontal" value="2"/>
+            <enum name="vertical" value="3"/>
+        </attr><attr format="reference" name="leftOverlay"/><attr format="reference" name="rightOverlay"/><attr format="reference" name="bottomOverlay"/><attr format="reference" name="topOverlay"/></declare-styleable></configuration></mergedItems></merger>

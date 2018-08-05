@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+	package
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:5:5-59
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:3:1-11:12
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:4:5-63
+application
+ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:7:5-9:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml:8:9-41
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Live Project\LeftRightSwipeDemo\swipeliketinder\src\main\AndroidManifest.xml

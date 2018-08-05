@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardStackView"><attr format="integer" name="visibleCount"/><attr format="float" name="swipeThreshold"/><attr format="float" name="translationDiff"/><attr format="float" name="scaleDiff"/><attr format="enum" name="stackFrom">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr format="boolean" name="elevationEnabled"/><attr format="boolean" name="swipeEnabled"/><attr format="enum" name="swipeDirection">
+            <enum name="freedom" value="0"/>
+            <enum name="freedom_no_bottom" value="1"/>
+            <enum name="horizontal" value="2"/>
+            <enum name="vertical" value="3"/>
+        </attr><attr format="reference" name="leftOverlay"/><attr format="reference" name="rightOverlay"/><attr format="reference" name="bottomOverlay"/><attr format="reference" name="topOverlay"/></declare-styleable>
+    <string name="app_name">CardStackView</string>
+</resources>
